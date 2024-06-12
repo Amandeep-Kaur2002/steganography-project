@@ -1,1 +1,1 @@
-# steganography-project
+# steganography-project-Steganography is the art and science of concealing information within digital media such as images, audio files, or videos, without visibly altering the original content. In this digital age, with the rise of data privacy concerns and the need for secure communication channels, steganography plays a crucial role in ensuring the confidentiality of sensitive information. ![image](https://github.com/Amandeep-Kaur2002/steganography-project/assets/153062099/37a50719-a593-42b6-9dba-7f7d712d600c)
